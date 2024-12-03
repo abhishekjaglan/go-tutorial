@@ -36,4 +36,5 @@ func main() {
 	sort.Ints(highScores)
 	fmt.Println(highScores)
 	fmt.Println(sort.IntsAreSorted(highScores))
+	fmt.Println("Just for the sake of maintaining streak")
 }
